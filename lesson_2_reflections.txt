@@ -1,4 +1,11 @@
-What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository? 
+It creates an empty repository to work with.  
 
-It creates an empty repository to work with.  We need to start with something to add and commit to.  
+Why do you need to do it?
+We need to start with something to add and commit to.  
 
+How is the staging area different from the working directory and the repository? 
+If we continued to make changes it will be on the file in the working directory.  Files in staging area have not been commited to the repository yet, so it’s inbetween working directory and repository.  
+
+What value do you think it offers?
+Hmm. . . We can run git status to make sure it is correct before committing the changes.  
