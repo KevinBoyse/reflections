@@ -28,5 +28,8 @@ Have all the changes in the master by date and time.
 Why do we represent it in the diagram the way we do?
 Expresses which branch the changes were made on.  
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic is nice, but a little scary.  although I trust the computer more than people.  Should have some checks and balances.  
+
 
 
