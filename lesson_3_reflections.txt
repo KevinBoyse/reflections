@@ -15,7 +15,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
  
-    Fill in your answer here
+    If you won't have network access on a plane or in the woods or on a large body of water. 
  
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
