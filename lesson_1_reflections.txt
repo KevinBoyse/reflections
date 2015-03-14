@@ -1,0 +1,10 @@
+Reflections for Udacity course How to use Git & GitHub 
+
+Manually commiting ensures more logical commits with comments on each commit.  
+
+One commit per logical change.
+
+Version control gives confidence because we can always compare or get back to where where were prior. 
+
+I want to use version control (git) with documentation.  
+
