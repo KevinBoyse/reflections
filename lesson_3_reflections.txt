@@ -20,10 +20,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
  
-    Subversion?  Microsoft Team Foundation Server?  some cloud service?
+    Subversion?  Microsoft Team Foundation Server?  some cloud service?  There would probably be e-mails sent back and forth.  spreadsheets.  etc.
  
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
  
-    Fill in your answer here
+    architecture or design change.  new release of software. major change 
 
